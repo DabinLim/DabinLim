@@ -32,7 +32,8 @@ Also enjoy communicating !</p>
 <div align="center" style="display:flex">
     
 ![DabinLim's GitHub stats](https://github-readme-stats.vercel.app/api?username=DabinLim&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
-
+    <br/>
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ekqls2143)](https://solved.ac/ekqls2143)
 </div>
 <br/>
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>
