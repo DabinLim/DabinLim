@@ -1,8 +1,7 @@
-
-<h2 align="center" style='text-decoration : none;'> Hi there ! 👋 </h2>
+<h1 align="center"> Dabin Lim </h1>
 
 <br/>
-
+<h3 align="center"> Hi there ! 👋 </h3> 
 <p align="center"> I'm currently studying React.js and TypeScript</p>
 
 <h3 align="center"> Strength </h3>
