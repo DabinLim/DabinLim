@@ -3,12 +3,8 @@
 
 <br/>
 
-<p align="center"> I'm currently studying React.js and TypeScript</p>
-
-<h3 align="center"> Strength </h3>
-<p align="center">
-I enjoy trying new things and learning.<br>
-Also enjoy communicating !</p> 
+<p align="center"> I'm currently studying React.js and TypeScript<br/>I enjoy trying new things and learning.<br>
+Also enjoy communicating !</p>
 
 <br>
 
@@ -28,15 +24,7 @@ Also enjoy communicating !</p>
 
 <br/>
 
-
-    
-<div align="center" style="display:flex">
-    
-![DabinLim's GitHub stats](https://github-readme-stats.vercel.app/api?username=DabinLim&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
-
-</div>
-<br/>
-<h2 align="center"> 🛠 Tech Stack 🛠 </h2>
+<h2 align="center"> Tech Stack </h2>
 
 <div align="center" style="display:flex">
      <h3>  Mainly used  </h3>
