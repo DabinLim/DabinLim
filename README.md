@@ -34,6 +34,8 @@ Also enjoy communicating !</p>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
          <br/>
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+    
+<img src="https://img.shields.io/badge/sass-DB7093?style=flat-square&logo=sass&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 
