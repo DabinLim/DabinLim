@@ -2,8 +2,16 @@
 
 <br/>
 
-<p align="center"> I'm currently studying React.js and TypeScript<br/>I enjoy trying new things and learning.<br>
-Also enjoy communicating !</p>
+<p align="center">
+I'm working as React Native developer and developing a car management application, the carpet.<br>
+I'm currently studying Swift<br/>
+I enjoy communicating and solving problems together.<br>
+And i value consistency the most.</p>
+
+<p align="center"> 
+차량관리 어플 더 카펫 개발을 담당하고 있는 React Native 개발자입니다.<br>
+현재는 Swift와 React Native에 대해 공부하고 있습니다.<br>
+함께 소통하고 문제를 해결해 나가는 것을 즐기며 꾸준함을 가장 큰 가치로 생각합니다.</p>
 
 <br>
 
@@ -12,12 +20,14 @@ Also enjoy communicating !</p>
 <a href="mailto:dabinim09@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
-        style="height : auto; margin-left : 10px;"/>
+        style="height : auto;"/>
 </a>
-<a href="https://github.com/DabinLim/Resume">
-    <img 
-        src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=Github&logoColor=white"
-        style="height : auto; margin-right : 10px;"/>
+<h3 align="center">Tech Blog</h3>
+<p align="center">
+<a href="https://beenlog.tistory.com/">
+        <img 
+        src="https://img.shields.io/badge/-tech--blog-brightgreen"
+        style="height : auto;"/>
 </a>
 </p>
 
@@ -29,36 +39,10 @@ Also enjoy communicating !</p>
      <h3>  Mainly used  </h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-         <br/>
-<img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-    
-<img src="https://img.shields.io/badge/sass-DB7093?style=flat-square&logo=sass&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <br/>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-
-<br/>
-         
-<h3> I've used at least once </h3>
-
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
     
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+         <br/>
 </div>
 
 <br/>
