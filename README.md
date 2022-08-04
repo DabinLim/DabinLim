@@ -4,13 +4,11 @@
 
 <p align="center">
 I'm working as React Native developer and developing a car management application, the carpet.<br>
-I'm currently studying Swift<br/>
 I enjoy communicating and solving problems together.<br>
 And i value consistency the most.</p>
 
 <p align="center"> 
 차량관리 어플 더 카펫 개발을 담당하고 있는 React Native 개발자입니다.<br>
-현재는 Swift와 React Native에 대해 공부하고 있습니다.<br>
 함께 소통하고 문제를 해결해 나가는 것을 즐기며 꾸준함을 가장 큰 가치로 생각합니다.</p>
 
 <br>
