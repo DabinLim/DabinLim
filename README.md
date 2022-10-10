@@ -3,10 +3,11 @@
 <br/>
 
 <p align="center">
-I'm working as React Native developer and developing a car management application, the carpet.<br>
-I enjoy communicating and solving problems together.<br>
-And i value consistency the most.</p>
+I'm working as Frontend developer and mainly using React.js<br>
+I value consistency and the joy of communication the most.</p>
 
+
+We value consistency and the joy of communication as great values.
 <p align="center"> 
 리액트를 주로 사용하고 있으며 새로운 지식을 습득하는 것을 즐거워합니다.<br>
 꾸준함과 소통의 즐거움을 큰 가치로 생각하고 있습니다.</p>
